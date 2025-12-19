@@ -1,0 +1,26 @@
+[
+    {
+        "airline": "Air Andes Chile",
+        "model": "Thrush Aircraft S2R-T660",
+        "airplane_id": "CC-DLU",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-02-16/2025-02-16",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-179DC"
+    },
+    {
+        "airline": "Air Andes Chile",
+        "model": "Tecnam P2006T",
+        "airplane_id": "CC-DJL",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-02-21/2025-02-21",
+        "manufacturer": "Tecnam",
+        "serial": "265"
+    },
+    {
+        "airline": "Air Andes Chile",
+        "model": "Thrush Aircraft S2R-T660",
+        "airplane_id": "CC-DLU",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-02-16/2025-02-16",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-179DC"
+    }
+]

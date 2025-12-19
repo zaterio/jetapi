@@ -1,0 +1,74 @@
+[
+    {
+        "airline": "Helicopteros del Pacifico",
+        "model": "Air Tractor AT-802A",
+        "airplane_id": "CC-DNS",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-11-14/2025-11-14",
+        "manufacturer": "Air Tractor",
+        "serial": "802-1232"
+    },
+    {
+        "airline": "Helicopteros del Pacifico",
+        "model": "Air Tractor AT-802A",
+        "airplane_id": "CC-DNS",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-11-10/2025-11-10",
+        "manufacturer": "Air Tractor",
+        "serial": "802-1232"
+    },
+    {
+        "airline": "Helicopteros del Pacifico",
+        "model": "Bell 412SP",
+        "airplane_id": "CC-DGP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-09-13/2025-09-13",
+        "manufacturer": "Bell",
+        "serial": "36015"
+    },
+    {
+        "airline": "Helicopteros del Pacifico",
+        "model": "Air Tractor AT-802A",
+        "airplane_id": "CC-DER",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-11-08/2022-11-08",
+        "manufacturer": "Air Tractor",
+        "serial": "802-0854"
+    },
+    {
+        "airline": "Helicopteros del Pacifico",
+        "model": "Bell 412",
+        "airplane_id": "CC-DHH",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-02-15/2024-02-15",
+        "manufacturer": "Bell",
+        "serial": "33103"
+    },
+    {
+        "airline": "Helicopteros del Pacifico",
+        "model": "Bell 412",
+        "airplane_id": "CC-DLE",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-11-09/2024-11-09",
+        "manufacturer": "Bell",
+        "serial": "33152"
+    },
+    {
+        "airline": "Helicopteros del Pacifico",
+        "model": "Air Tractor AT-802",
+        "airplane_id": "LV-JUQ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-11-26/2023-11-26",
+        "manufacturer": "Air Tractor",
+        "serial": "802-0856"
+    },
+    {
+        "airline": "Helicopteros del Pacifico",
+        "model": "Air Tractor AT-802A",
+        "airplane_id": "CC-DER",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-06-25/2024-06-25",
+        "manufacturer": "Air Tractor",
+        "serial": "802-0854"
+    },
+    {
+        "airline": "Helicopteros del Pacifico",
+        "model": "Air Tractor AT-802",
+        "airplane_id": "LV-JUQ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-10-25/2023-10-25",
+        "manufacturer": "Air Tractor",
+        "serial": "802-0856"
+    }
+]

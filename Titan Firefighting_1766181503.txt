@@ -1,0 +1,34 @@
+[
+    {
+        "airline": "Titan Firefighting",
+        "model": "Air Tractor AT-802",
+        "airplane_id": "EC-OJU",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-11-21/2025-11-21",
+        "manufacturer": "Air Tractor",
+        "serial": "802-1075"
+    },
+    {
+        "airline": "Titan Firefighting",
+        "model": "Air Tractor AT-802A",
+        "airplane_id": "EC-NMT",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-09-06/2024-09-06",
+        "manufacturer": "Air Tractor",
+        "serial": "802A-0850"
+    },
+    {
+        "airline": "Titan Firefighting",
+        "model": "Air Tractor AT-802A Fire Boss",
+        "airplane_id": "EC-MZL",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-06-14/2024-06-14",
+        "manufacturer": "Air Tractor",
+        "serial": "802A-0748"
+    },
+    {
+        "airline": "Titan Firefighting",
+        "model": "Air Tractor AT-802A Fire Boss",
+        "airplane_id": "EC-NDU",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-06-14/2024-06-14",
+        "manufacturer": "Air Tractor",
+        "serial": "802A-0781"
+    }
+]

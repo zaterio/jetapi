@@ -1,0 +1,10 @@
+[
+    {
+        "airline": "Nueva Frontera",
+        "model": "Air Tractor AT-802A",
+        "airplane_id": "CC-DKX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-06-28/2025-06-28",
+        "manufacturer": "Air Tractor",
+        "serial": "802A-1073"
+    }
+]

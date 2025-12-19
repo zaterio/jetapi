@@ -1,0 +1,210 @@
+[
+    {
+        "airline": "CONAF CHILE",
+        "model": "PZL-Mielec M-18B Dromader",
+        "airplane_id": "CC-PZJ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-02-14/2025-02-14",
+        "manufacturer": "PZL-Mielec",
+        "serial": "1Z028-22"
+    },
+    {
+        "airline": "CONAF CHILE",
+        "model": "PZL-Mielec M-18B Dromader",
+        "airplane_id": "CC-PZM",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-02-14/2025-02-14",
+        "manufacturer": "PZL-Mielec",
+        "serial": "1Z028-23"
+    },
+    {
+        "airline": "CONAF CHILE",
+        "model": "Air Tractor AT-802A",
+        "airplane_id": "CC-DLW",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-10-05/2025-10-05",
+        "manufacturer": "Air Tractor",
+        "serial": "802A-1147"
+    },
+    {
+        "airline": "CONAF CHILE",
+        "model": "Air Tractor AT-802",
+        "airplane_id": "CC-APH",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-11-08/2024-11-08",
+        "manufacturer": "Air Tractor",
+        "serial": "802-0632"
+    },
+    {
+        "airline": "CONAF CHILE",
+        "model": "Air Tractor AT-802A",
+        "airplane_id": "CC-ARY",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-02-07/2025-02-07",
+        "manufacturer": "Air Tractor",
+        "serial": "802A-0662"
+    },
+    {
+        "airline": "CONAF CHILE",
+        "model": "Cessna 337H Skymaster",
+        "airplane_id": "CC-CKT",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-02-15/2025-02-15",
+        "manufacturer": "Cessna",
+        "serial": "33701891"
+    },
+    {
+        "airline": "CONAF CHILE",
+        "model": "PZL-Mielec M-18B Dromader",
+        "airplane_id": "CC-PZM",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-04-09/2024-04-09",
+        "manufacturer": "PZL-Mielec",
+        "serial": "1Z028-23"
+    },
+    {
+        "airline": "CONAF CHILE",
+        "model": "Air Tractor AT-802A",
+        "airplane_id": "CC-ARY",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-11-22/2024-11-22",
+        "manufacturer": "Air Tractor",
+        "serial": "802A-0662"
+    },
+    {
+        "airline": "CONAF CHILE",
+        "model": "PZL-Mielec M-18B Dromader",
+        "airplane_id": "CC-PZJ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-01-14/2024-01-14",
+        "manufacturer": "PZL-Mielec",
+        "serial": "1Z028-22"
+    },
+    {
+        "airline": "CONAF CHILE",
+        "model": "Air Tractor AT-802A",
+        "airplane_id": "CC-DLW",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-11-08/2024-11-08",
+        "manufacturer": "Air Tractor",
+        "serial": "802A-1147"
+    },
+    {
+        "airline": "CONAF CHILE",
+        "model": "PZL-Mielec M-18B Dromader",
+        "airplane_id": "CC-PZM",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-04-07/2024-04-07",
+        "manufacturer": "PZL-Mielec",
+        "serial": "1Z028-23"
+    },
+    {
+        "airline": "CONAF CHILE",
+        "model": "Air Tractor AT-802A",
+        "airplane_id": "CC-ARY",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-11-24/2023-11-24",
+        "manufacturer": "Air Tractor",
+        "serial": "802A-0662"
+    },
+    {
+        "airline": "CONAF CHILE",
+        "model": "Air Tractor AT-802",
+        "airplane_id": "CC-APH",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-04-09/2024-04-09",
+        "manufacturer": "Air Tractor",
+        "serial": "802-0632"
+    },
+    {
+        "airline": "CONAF CHILE",
+        "model": "Air Tractor AT-802",
+        "airplane_id": "CC-APH",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-03-04/2024-03-04",
+        "manufacturer": "Air Tractor",
+        "serial": "802-0632"
+    },
+    {
+        "airline": "CONAF CHILE",
+        "model": "PZL-Mielec M-18B Dromader",
+        "airplane_id": "CC-PZM",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-03-04/2024-03-04",
+        "manufacturer": "PZL-Mielec",
+        "serial": "1Z028-23"
+    },
+    {
+        "airline": "CONAF CHILE",
+        "model": "PZL-Mielec M-18B Dromader",
+        "airplane_id": "CC-PZT",
+        "photo_url": "https://www.jetphotos.com/photo/date/2019-01-05/2019-01-05",
+        "manufacturer": "PZL-Mielec",
+        "serial": "1Z028-24"
+    },
+    {
+        "airline": "CONAF CHILE",
+        "model": "PZL-Mielec M-18B Dromader",
+        "airplane_id": "CC-PZM",
+        "photo_url": "https://www.jetphotos.com/photo/date/2016-04-30/2016-04-30",
+        "manufacturer": "PZL-Mielec",
+        "serial": "1Z028-23"
+    },
+    {
+        "airline": "CONAF CHILE",
+        "model": "Air Tractor AT-802A",
+        "airplane_id": "CC-ARY",
+        "photo_url": "https://www.jetphotos.com/photo/date/2019-01-05/2019-01-05",
+        "manufacturer": "Air Tractor",
+        "serial": "802A-0662"
+    },
+    {
+        "airline": "CONAF CHILE",
+        "model": "PZL-Mielec M-18B Dromader",
+        "airplane_id": "CC-PZM",
+        "photo_url": "https://www.jetphotos.com/photo/date/2018-11-10/2018-11-10",
+        "manufacturer": "PZL-Mielec",
+        "serial": "1Z028-23"
+    },
+    {
+        "airline": "CONAF CHILE",
+        "model": "Air Tractor AT-802A",
+        "airplane_id": "CC-ARY",
+        "photo_url": "https://www.jetphotos.com/photo/date/2017-10-07/2017-10-07",
+        "manufacturer": "Air Tractor",
+        "serial": "802A-0662"
+    },
+    {
+        "airline": "CONAF CHILE",
+        "model": "Air Tractor AT-802A",
+        "airplane_id": "CC-ARY",
+        "photo_url": "https://www.jetphotos.com/photo/date/2018-04-02/2018-04-02",
+        "manufacturer": "Air Tractor",
+        "serial": "802A-0662"
+    },
+    {
+        "airline": "CONAF CHILE",
+        "model": "Bell 212",
+        "airplane_id": "CC-ATY",
+        "photo_url": "https://www.jetphotos.com/photo/date/2018-01-27/2018-01-27",
+        "manufacturer": "Bell",
+        "serial": "30615"
+    },
+    {
+        "airline": "CONAF CHILE",
+        "model": "Bell 212",
+        "airplane_id": "CC-ATY",
+        "photo_url": "https://www.jetphotos.com/photo/date/2018-01-13/2018-01-13",
+        "manufacturer": "Bell",
+        "serial": "30615"
+    },
+    {
+        "airline": "CONAF CHILE",
+        "model": "Air Tractor AT-802",
+        "airplane_id": "CC-APH",
+        "photo_url": "https://www.jetphotos.com/photo/date/2016-03-28/2016-03-28",
+        "manufacturer": "Air Tractor",
+        "serial": "802-0632"
+    },
+    {
+        "airline": "CONAF CHILE",
+        "model": "Air Tractor AT-802A",
+        "airplane_id": "CC-API",
+        "photo_url": "https://www.jetphotos.com/photo/date/2017-02-18/2017-02-18",
+        "manufacturer": "Air Tractor",
+        "serial": "802A-0636"
+    },
+    {
+        "airline": "CONAF CHILE",
+        "model": "Air Tractor AT-802A",
+        "airplane_id": "CC-ARY",
+        "photo_url": "https://www.jetphotos.com/photo/date/2017-01-07/2017-01-07",
+        "manufacturer": "",
+        "serial": "802A-0662"
+    }
+]

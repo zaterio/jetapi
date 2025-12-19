@@ -1,0 +1,90 @@
+[
+    {
+        "airline": "Arauco",
+        "model": "Bell 212",
+        "airplane_id": "D-HBWP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-02-05/2024-02-05",
+        "manufacturer": "Bell",
+        "serial": "30645"
+    },
+    {
+        "airline": "Arauco",
+        "model": "Air Tractor AT-802",
+        "airplane_id": "EC-LSB",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-07-17/2023-07-17",
+        "manufacturer": "Air Tractor",
+        "serial": "802-0438"
+    },
+    {
+        "airline": "Arauco",
+        "model": "Agusta-Westland AW-119",
+        "airplane_id": "CC-DDK",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-07-13/2021-07-13",
+        "manufacturer": "Agusta-Westland",
+        "serial": "14517"
+    },
+    {
+        "airline": "Arauco",
+        "model": "Agusta-Westland AW-119Ke",
+        "airplane_id": "EC-KZT",
+        "photo_url": "https://www.jetphotos.com/photo/date/2019-12-10/2019-12-10",
+        "manufacturer": "Agusta-Westland",
+        "serial": "14727"
+    },
+    {
+        "airline": "Arauco",
+        "model": "Agusta-Westland AW-119",
+        "airplane_id": "EC-MKA",
+        "photo_url": "https://www.jetphotos.com/photo/date/2019-12-10/2019-12-10",
+        "manufacturer": "Agusta-Westland",
+        "serial": "14033"
+    },
+    {
+        "airline": "Arauco",
+        "model": "Air Tractor AT-802",
+        "airplane_id": "EC-MMO",
+        "photo_url": "https://www.jetphotos.com/photo/date/2018-04-14/2018-04-14",
+        "manufacturer": "Air Tractor",
+        "serial": "802-0652"
+    },
+    {
+        "airline": "Arauco",
+        "model": "Air Tractor AT-802",
+        "airplane_id": "EC-LSB",
+        "photo_url": "https://www.jetphotos.com/photo/date/2018-04-14/2018-04-14",
+        "manufacturer": "Air Tractor",
+        "serial": "802-0438"
+    },
+    {
+        "airline": "Arauco",
+        "model": "Air Tractor AT-802A",
+        "airplane_id": "EC-JAC",
+        "photo_url": "https://www.jetphotos.com/photo/date/2018-04-14/2018-04-14",
+        "manufacturer": "Air Tractor",
+        "serial": "802A-0177 "
+    },
+    {
+        "airline": "Arauco",
+        "model": "Air Tractor AT-802A",
+        "airplane_id": "EC-JAC",
+        "photo_url": "https://www.jetphotos.com/photo/date/2018-04-14/2018-04-14",
+        "manufacturer": "Air Tractor",
+        "serial": "802A-0177 "
+    },
+    {
+        "airline": "Arauco",
+        "model": "Air Tractor AT-802",
+        "airplane_id": "EC-MMO",
+        "photo_url": "https://www.jetphotos.com/photo/date/2018-04-14/2018-04-14",
+        "manufacturer": "Air Tractor",
+        "serial": "802-0652"
+    },
+    {
+        "airline": "Arauco",
+        "model": "Air Tractor AT-802A",
+        "airplane_id": "EC-JAC",
+        "photo_url": "https://www.jetphotos.com/photo/date/2018-04-14/2018-04-14",
+        "manufacturer": "Air Tractor",
+        "serial": "802A-0177 "
+    }
+]

@@ -1,0 +1,498 @@
+[
+    {
+        "airline": "Pegasus Aviation",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-MYU",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-09-25/2025-09-25",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "3507"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-NSS",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-09-25/2025-09-25",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "9140"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 412EP",
+        "airplane_id": "D-HFBI",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-07-27/2025-07-27",
+        "manufacturer": "Bell",
+        "serial": "36308"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 412EP",
+        "airplane_id": "D-HFBI",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-07-27/2025-07-27",
+        "manufacturer": "Bell",
+        "serial": "36308"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-NJR",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-01-18/2023-01-18",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "3702"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 412EP",
+        "airplane_id": "D-HFBI",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-07-28/2024-07-28",
+        "manufacturer": "Bell",
+        "serial": "36308"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 212",
+        "airplane_id": "D-HBWP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-09-04/2024-09-04",
+        "manufacturer": "Bell",
+        "serial": "30645"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 412SP",
+        "airplane_id": "EC-MYN",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-07-18/2024-07-18",
+        "manufacturer": "Bell",
+        "serial": "33182"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 412SP",
+        "airplane_id": "EC-MYN",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-07-18/2024-07-18",
+        "manufacturer": "Bell",
+        "serial": "33182"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 412SP",
+        "airplane_id": "EC-MYN",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-08-03/2024-08-03",
+        "manufacturer": "Bell",
+        "serial": "33182"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 212",
+        "airplane_id": "EC-MGG",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-07-15/2022-07-15",
+        "manufacturer": "Bell",
+        "serial": "30802"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 412",
+        "airplane_id": "EC-NDF",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-03-01/2024-03-01",
+        "manufacturer": "Bell",
+        "serial": "36022"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 412",
+        "airplane_id": "EC-NDF",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-11-23/2023-11-23",
+        "manufacturer": "Bell",
+        "serial": "36022"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Air Tractor AT-802A Fire Boss",
+        "airplane_id": "EC-ODD",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-09-12/2023-09-12",
+        "manufacturer": "Air Tractor",
+        "serial": ""
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 412EP",
+        "airplane_id": "D-HFBI",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-07-25/2023-07-25",
+        "manufacturer": "Bell",
+        "serial": "36308"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 412",
+        "airplane_id": "EC-MAR",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-07-08/2023-07-08",
+        "manufacturer": "Bell",
+        "serial": "33031"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 412EP",
+        "airplane_id": "D-HFBI",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-06-26/2023-06-26",
+        "manufacturer": "Bell",
+        "serial": "36308"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 412",
+        "airplane_id": "EC-NDF",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-07-25/2022-07-25",
+        "manufacturer": "Bell",
+        "serial": "36022"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 412",
+        "airplane_id": "EC-MAR",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-07-19/2022-07-19",
+        "manufacturer": "Bell",
+        "serial": "33031"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 212",
+        "airplane_id": "EC-MGH",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-07-15/2022-07-15",
+        "manufacturer": "Bell",
+        "serial": "30942"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 412SP",
+        "airplane_id": "EC-MZI",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-07-02/2022-07-02",
+        "manufacturer": "Bell",
+        "serial": "33118"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 412EP",
+        "airplane_id": "EC-NKA",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-02-28/2022-02-28",
+        "manufacturer": "Bell",
+        "serial": "36305"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Agusta-Westland AW-119 MkII Koala Enhanced",
+        "airplane_id": "EC-MYR",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-03-02/2022-03-02",
+        "manufacturer": "Agusta-Westland",
+        "serial": "14713"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Agusta-Bell AB-412",
+        "airplane_id": "EC-JTD",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-11-26/2021-11-26",
+        "manufacturer": "Agusta-Bell",
+        "serial": "25801"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 412EP",
+        "airplane_id": "EC-NKA",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-09-18/2021-09-18",
+        "manufacturer": "Bell",
+        "serial": "36305"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 212",
+        "airplane_id": "EC-MGH",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-09-20/2021-09-20",
+        "manufacturer": "Bell",
+        "serial": "30942"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Agusta-Bell AB-412",
+        "airplane_id": "EC-JTD",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-09-10/2021-09-10",
+        "manufacturer": "Agusta-Bell",
+        "serial": "25801"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Agusta-Westland AW-119 MkII Koala Enhanced",
+        "airplane_id": "EC-MYR",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-08-15/2021-08-15",
+        "manufacturer": "Agusta-Westland",
+        "serial": "14713"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Agusta-Westland AW-119",
+        "airplane_id": "EC-MKB",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-08-21/2021-08-21",
+        "manufacturer": "Agusta-Westland",
+        "serial": "14033"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 412",
+        "airplane_id": "EC-IXX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-08-16/2021-08-16",
+        "manufacturer": "Bell",
+        "serial": "33043"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Agusta-Bell AB-412",
+        "airplane_id": "EC-JTD",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-08-16/2021-08-16",
+        "manufacturer": "Agusta-Bell",
+        "serial": "25801"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 412EP",
+        "airplane_id": "EC-NKA",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-05-26/2021-05-26",
+        "manufacturer": "Bell",
+        "serial": "36305"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 412SP",
+        "airplane_id": "EC-MZI",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-07-29/2021-07-29",
+        "manufacturer": "Bell",
+        "serial": "33118"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 412SP",
+        "airplane_id": "EC-MYN",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-07-15/2021-07-15",
+        "manufacturer": "Bell",
+        "serial": "33182"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 412EP",
+        "airplane_id": "EC-NKA",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-05-22/2021-05-22",
+        "manufacturer": "Bell",
+        "serial": "36305"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 212",
+        "airplane_id": "EC-MGG",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-06-28/2020-06-28",
+        "manufacturer": "Bell",
+        "serial": "30802"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 212",
+        "airplane_id": "EC-MGG",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-06-28/2020-06-28",
+        "manufacturer": "Bell",
+        "serial": "30802"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 412",
+        "airplane_id": "EC-NID",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-01-09/2021-01-09",
+        "manufacturer": "Bell",
+        "serial": "33105"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 412",
+        "airplane_id": "EC-NID",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-11-25/2020-11-25",
+        "manufacturer": "Bell",
+        "serial": "33105"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 412",
+        "airplane_id": "EC-NDF",
+        "photo_url": "https://www.jetphotos.com/photo/date/2019-08-20/2019-08-20",
+        "manufacturer": "Bell",
+        "serial": "36022"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 412",
+        "airplane_id": "EC-NDF",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-08-22/2020-08-22",
+        "manufacturer": "Bell",
+        "serial": "36022"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 412SP",
+        "airplane_id": "EC-MYN",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-10-12/2020-10-12",
+        "manufacturer": "Bell",
+        "serial": "33182"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 212",
+        "airplane_id": "EC-MGG",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-09-13/2020-09-13",
+        "manufacturer": "Bell",
+        "serial": "30802"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 412",
+        "airplane_id": "EC-NID",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-09-22/2020-09-22",
+        "manufacturer": "Bell",
+        "serial": "33105"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 212",
+        "airplane_id": "EC-MGG",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-07-16/2020-07-16",
+        "manufacturer": "Bell",
+        "serial": "30802"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 212",
+        "airplane_id": "EC-MGG",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-07-18/2020-07-18",
+        "manufacturer": "Bell",
+        "serial": "30802"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 212",
+        "airplane_id": "EC-MGH",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-07-15/2020-07-15",
+        "manufacturer": "Bell",
+        "serial": "30942"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 212",
+        "airplane_id": "EC-MGG",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-06-08/2020-06-08",
+        "manufacturer": "Bell",
+        "serial": "30802"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 212",
+        "airplane_id": "EC-MGG",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-05-24/2020-05-24",
+        "manufacturer": "Bell",
+        "serial": "30802"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 212",
+        "airplane_id": "EC-MGG",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-05-15/2020-05-15",
+        "manufacturer": "Bell",
+        "serial": "30802"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 412",
+        "airplane_id": "EC-NDF",
+        "photo_url": "https://www.jetphotos.com/photo/date/2019-08-11/2019-08-11",
+        "manufacturer": "Bell",
+        "serial": "36022"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 212",
+        "airplane_id": "CC-ATY",
+        "photo_url": "https://www.jetphotos.com/photo/date/2019-12-07/2019-12-07",
+        "manufacturer": "Bell",
+        "serial": "30615"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 412",
+        "airplane_id": "EC-NDF",
+        "photo_url": "https://www.jetphotos.com/photo/date/2019-08-11/2019-08-11",
+        "manufacturer": "Bell",
+        "serial": "36022"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 412SP",
+        "airplane_id": "EC-MYN",
+        "photo_url": "https://www.jetphotos.com/photo/date/2019-08-03/2019-08-03",
+        "manufacturer": "Bell",
+        "serial": "33182"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 412SP",
+        "airplane_id": "EC-MYN",
+        "photo_url": "https://www.jetphotos.com/photo/date/2019-07-13/2019-07-13",
+        "manufacturer": "Bell",
+        "serial": "33182"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Maule M-5-235C Lunar Rocket",
+        "airplane_id": "ZK-DWR",
+        "photo_url": "https://www.jetphotos.com/photo/date/2018-10-16/2018-10-16",
+        "manufacturer": "Maule",
+        "serial": "7234C"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Cessna 650 Citation III",
+        "airplane_id": "N928PS",
+        "photo_url": "https://www.jetphotos.com/photo/date/2016-11-23/2016-11-23",
+        "manufacturer": "Cessna",
+        "serial": "650-0116"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bombardier CL-600-2A12 Challenger 601",
+        "airplane_id": "N601TX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2007-11-26/2007-11-26",
+        "manufacturer": "Canadair",
+        "serial": "3005"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Vickers Viscount 802",
+        "airplane_id": "3D-PFI",
+        "photo_url": "https://www.jetphotos.com/photo/date/2005-03-09/2005-03-09",
+        "manufacturer": "Vickers",
+        "serial": "170"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bombardier CL-600-2A12 Challenger 601",
+        "airplane_id": "N601TX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2004-06-25/2004-06-25",
+        "manufacturer": "",
+        "serial": "3005"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bombardier CL-600-2A12 Challenger 601",
+        "airplane_id": "N601TX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2003-09-19/2003-09-19",
+        "manufacturer": "",
+        "serial": "3005"
+    },
+    {
+        "airline": "Pegasus Aviation",
+        "model": "Bell 407",
+        "airplane_id": "OY-HET",
+        "photo_url": "https://www.jetphotos.com/photo/date/2002-03-00/2002-03-00",
+        "manufacturer": "",
+        "serial": "53066"
+    }
+]

@@ -1,0 +1,466 @@
+[
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-NET",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-08-09/2025-08-09",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-144"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-NES",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-07-12/2025-07-12",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-134"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-NKX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-05-24/2025-05-24",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-146DC"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft S2R-T660",
+        "airplane_id": "EC-NNS",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-02-02/2025-02-02",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-150"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft S2R-T660",
+        "airplane_id": "EC-NXY",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-12-08/2023-12-08",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-154DC"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-MUO",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-08-28/2024-08-28",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-135"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-NOU",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-08-28/2024-08-28",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-151"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Ayers S2R-T660 Thrush",
+        "airplane_id": "EC-NNE",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-08-28/2024-08-28",
+        "manufacturer": "Ayres",
+        "serial": "T660-149"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Ayers S2R-T660 Thrush",
+        "airplane_id": "EC-NUK",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-08-28/2024-08-28",
+        "manufacturer": "Ayres",
+        "serial": "T660-153"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft S2R-T660",
+        "airplane_id": "EC-NLT",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-08-28/2024-08-28",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-148"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-NJL",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-09-19/2023-09-19",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-145"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Ayers S2R-T660 Thrush",
+        "airplane_id": "EC-NNE",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-01-24/2024-01-24",
+        "manufacturer": "Ayres",
+        "serial": "T660-149"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft S2R-T660",
+        "airplane_id": "EC-NLT",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-11-23/2023-11-23",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-148"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft S2R-T660",
+        "airplane_id": "EC-NLT",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-10-23/2023-10-23",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-148"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft S2R-T660",
+        "airplane_id": "EC-NXY",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-10-06/2023-10-06",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-154DC"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-NKX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-09-22/2021-09-22",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-146DC"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-NJL",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-08-26/2023-08-26",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-145"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-NJL",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-08-24/2023-08-24",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-145"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-MXL",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-09-30/2021-09-30",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-141"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-MVL",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-09-16/2020-09-16",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-136DC"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-OCK",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-08-18/2023-08-18",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-172DC"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-NKC",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-08-18/2023-08-18",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-142"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-NPL",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-07-13/2023-07-13",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-152"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-NJL",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-07-07/2023-07-07",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-145"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-MUO",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-03-27/2023-03-27",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-135"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-NJL",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-07-08/2023-07-08",
+        "manufacturer": "Ayres",
+        "serial": "T660-145"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-NPL",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-04-12/2023-04-12",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-152"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-MUO",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-03-26/2023-03-26",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-135"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft S2R-T660",
+        "airplane_id": "EC-NNS",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-04-12/2023-04-12",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-150"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Air Tractor AT-401",
+        "airplane_id": "EC-END",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-04-12/2023-04-12",
+        "manufacturer": "Air Tractor",
+        "serial": "401-0698"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-NLL",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-04-12/2023-04-12",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-147"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-NOU",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-03-23/2023-03-23",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-151"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-MXF",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-03-23/2023-03-23",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-140"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft S2R-T660",
+        "airplane_id": "EC-NES",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-09-08/2022-09-08",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-134"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-MUO",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-10-31/2022-10-31",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-135"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft S2R-T660",
+        "airplane_id": "EC-NNS",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-10-31/2022-10-31",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-150"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-NLL",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-08-13/2022-08-13",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-147"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-NET",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-08-02/2022-08-02",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-144"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-NOU",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-09-08/2022-09-08",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-151"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Ayers S2R-T660 Thrush",
+        "airplane_id": "EC-NUK",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-08-05/2022-08-05",
+        "manufacturer": "Ayres",
+        "serial": "T660-153"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-NLL",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-08-01/2022-08-01",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-147"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft S2R-T660",
+        "airplane_id": "EC-NNS",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-11-01/2021-11-01",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-150"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft S2R-T660",
+        "airplane_id": "EC-NNS",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-11-01/2021-11-01",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-150"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Ayers S2R-T660 Thrush",
+        "airplane_id": "EC-NNE",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-10-31/2021-10-31",
+        "manufacturer": "Ayres",
+        "serial": "T660-149"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft S2R-T660",
+        "airplane_id": "EC-NNS",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-10-31/2021-10-31",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-150"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-NPL",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-08-12/2021-08-12",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-152"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft S2R-T660",
+        "airplane_id": "EC-NNS",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-06-29/2021-06-29",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-150"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft S2R-T660",
+        "airplane_id": "EC-NES",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-08-31/2020-08-31",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-134"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft S2R-T660",
+        "airplane_id": "EC-NES",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-08-31/2020-08-31",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-134"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-MVL",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-08-31/2020-08-31",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-136DC"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft S2R-T660",
+        "airplane_id": "EC-NES",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-07-17/2020-07-17",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-134"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-NET",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-08-31/2020-08-31",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-144"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-MXL",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-08-31/2020-08-31",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-141"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-MVL",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-07-11/2020-07-11",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-136DC"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft S2R-T660",
+        "airplane_id": "EC-NES",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-07-17/2020-07-17",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-134"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-NKX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-07-17/2020-07-17",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-146DC"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-MUO",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-06-18/2020-06-18",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-135"
+    },
+    {
+        "airline": "Plysa",
+        "model": "Thrush Aircraft Thrush 710P",
+        "airplane_id": "EC-MVL",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-06-18/2020-06-18",
+        "manufacturer": "Thrush Aircraft",
+        "serial": "T660-136DC"
+    }
+]

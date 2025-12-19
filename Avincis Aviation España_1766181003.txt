@@ -1,0 +1,402 @@
+[
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Eurocopter EC 145",
+        "airplane_id": "EC-OFC",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-12-05/2025-12-05",
+        "manufacturer": "Eurocopter",
+        "serial": "9093"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Agusta-Westland AW-139",
+        "airplane_id": "EC-OQF",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-11-07/2025-11-07",
+        "manufacturer": "Agusta-Westland",
+        "serial": "31033"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Agusta-Westland AW-139",
+        "airplane_id": "EC-OQF",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-11-10/2025-11-10",
+        "manufacturer": "Agusta-Westland",
+        "serial": "31033"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Agusta-Westland AW-139",
+        "airplane_id": "EC-OQF",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-11-10/2025-11-10",
+        "manufacturer": "Agusta-Westland",
+        "serial": "31033"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Agusta A109S Grand",
+        "airplane_id": "EC-NRU",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-08-28/2025-08-28",
+        "manufacturer": "Agusta",
+        "serial": "22164"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-OAF",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-10-16/2025-10-16",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-297"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Eurocopter EC 145",
+        "airplane_id": "EC-OFC",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-10-05/2025-10-05",
+        "manufacturer": "Eurocopter",
+        "serial": "9093"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Agusta-Westland AW-139",
+        "airplane_id": "EC-OQF",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-09-13/2025-09-13",
+        "manufacturer": "Agusta-Westland",
+        "serial": "31033"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Bell 212",
+        "airplane_id": "EC-MXO",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-09-13/2025-09-13",
+        "manufacturer": "Bell",
+        "serial": "30598"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Canadair CL-215-1A10",
+        "airplane_id": "EC-GBT",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-08-23/2025-08-23",
+        "manufacturer": "Canadair",
+        "serial": "1054"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Bell 212",
+        "airplane_id": "EC-INN",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-08-15/2025-08-15",
+        "manufacturer": "Bell",
+        "serial": "31146"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Agusta A109S Grand",
+        "airplane_id": "EC-NOV",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-08-06/2025-08-06",
+        "manufacturer": "Agusta",
+        "serial": "22128"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Agusta A109S Grand",
+        "airplane_id": "EC-ONF",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-07-22/2025-07-22",
+        "manufacturer": "Agusta",
+        "serial": "22077"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Agusta-Westland AW-139",
+        "airplane_id": "EC-OQF",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-07-25/2025-07-25",
+        "manufacturer": "Agusta-Westland",
+        "serial": "31033"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "A\u00e9rospatiale AS 332L2 Super Puma",
+        "airplane_id": "EC-NPO",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-05-29/2025-05-29",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "2634"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Bell 212HP",
+        "airplane_id": "EC-MTR",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-06-18/2025-06-18",
+        "manufacturer": "Bell",
+        "serial": "30650"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Eurocopter AS 332l2 Super Puma",
+        "airplane_id": "EC-NBR",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-05-29/2025-05-29",
+        "manufacturer": "Eurocopter",
+        "serial": "2610"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Agusta A109S Grand",
+        "airplane_id": "EC-ONF",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-06-08/2025-06-08",
+        "manufacturer": "Agusta",
+        "serial": "22077"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Agusta A109S Grand",
+        "airplane_id": "EC-JPP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-05-08/2025-05-08",
+        "manufacturer": "Agusta",
+        "serial": "22005"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Agusta A109S Grand",
+        "airplane_id": "EC-NRU",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-04-01/2025-04-01",
+        "manufacturer": "Agusta",
+        "serial": "22164"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Agusta A109S Grand",
+        "airplane_id": "EC-ONF",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-04-07/2025-04-07",
+        "manufacturer": "Agusta",
+        "serial": "22077"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "A\u00e9rospatiale AS 332L2 Super Puma",
+        "airplane_id": "EC-NPO",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-02-16/2025-02-16",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "2634"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Eurocopter AS 332l2 Super Puma",
+        "airplane_id": "EC-OIO",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-09-10/2024-09-10",
+        "manufacturer": "Eurocopter",
+        "serial": "2471"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Agusta A109S Grand",
+        "airplane_id": "EC-NOB",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-08-01/2024-08-01",
+        "manufacturer": "Agusta",
+        "serial": "22130"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Eurocopter EC 145",
+        "airplane_id": "EC-OFC",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-08-01/2024-08-01",
+        "manufacturer": "Eurocopter",
+        "serial": "9093"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Agusta A109S Grand",
+        "airplane_id": "EC-JPP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-09-11/2024-09-11",
+        "manufacturer": "Agusta",
+        "serial": "22005"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Agusta-Bell AB-412SP",
+        "airplane_id": "EC-FEL",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-09-11/2024-09-11",
+        "manufacturer": "Agusta-Bell",
+        "serial": "25576"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Eurocopter AS 332l2 Super Puma",
+        "airplane_id": "EC-OIO",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-09-10/2024-09-10",
+        "manufacturer": "Eurocopter",
+        "serial": "2471"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Bell 412",
+        "airplane_id": "EC-HZD",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-08-30/2024-08-30",
+        "manufacturer": "Bell",
+        "serial": "33056"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Agusta-Westland AW-139",
+        "airplane_id": "EC-LBM",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-08-30/2024-08-30",
+        "manufacturer": "Agusta-Westland",
+        "serial": "31266"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Bell 412HP",
+        "airplane_id": "EC-MKS",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-08-01/2024-08-01",
+        "manufacturer": "Bell",
+        "serial": "36027"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Bell 412HP",
+        "airplane_id": "EC-MQD",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-07-12/2024-07-12",
+        "manufacturer": "Bell",
+        "serial": "36069"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Agusta A109S Grand",
+        "airplane_id": "EC-NOB",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-07-27/2024-07-27",
+        "manufacturer": "Agusta",
+        "serial": "22130"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Agusta A109E Power",
+        "airplane_id": "EC-IUS",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-06-29/2023-06-29",
+        "manufacturer": "Agusta",
+        "serial": "11229"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Agusta A109E Power",
+        "airplane_id": "EC-KJU",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-06-29/2023-06-29",
+        "manufacturer": "Agusta",
+        "serial": "11709"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Airbus Helicopters H145",
+        "airplane_id": "EC-MOS",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-06-26/2024-06-26",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "20095"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Agusta A109S Grand",
+        "airplane_id": "EC-NRI",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-06-12/2024-06-12",
+        "manufacturer": "Agusta",
+        "serial": "22069"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Agusta A109S Grand",
+        "airplane_id": "EC-NOV",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-05-05/2024-05-05",
+        "manufacturer": "Agusta",
+        "serial": "22128"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Eurocopter EC 145",
+        "airplane_id": "EC-OFC",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-05-09/2024-05-09",
+        "manufacturer": "Eurocopter",
+        "serial": "9093"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Eurocopter EC 135P3",
+        "airplane_id": "EC-MPK",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-01-30/2024-01-30",
+        "manufacturer": "Eurocopter",
+        "serial": "1259"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Agusta-Westland AW-139",
+        "airplane_id": "EC-KLC",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-12-23/2023-12-23",
+        "manufacturer": "Agusta-Westland",
+        "serial": "31107"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Agusta-Westland AW-139",
+        "airplane_id": "EC-JOU",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-09-24/2023-09-24",
+        "manufacturer": "Agusta-Westland",
+        "serial": "31034"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Canadair CL-215",
+        "airplane_id": "EC-GBS",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-08-23/2023-08-23",
+        "manufacturer": "Canadair",
+        "serial": "1052"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Canadair CL-215-1A10",
+        "airplane_id": "EC-GBT",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-07-29/2023-07-29",
+        "manufacturer": "Canadair",
+        "serial": "1054"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Agusta A109E Power",
+        "airplane_id": "EC-LOD",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-07-30/2023-07-30",
+        "manufacturer": "Agusta",
+        "serial": "11121"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Agusta A109S Grand",
+        "airplane_id": "EC-NOV",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-07-08/2023-07-08",
+        "manufacturer": "Agusta",
+        "serial": "22128"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "A\u00e9rospatiale AS 355N Ecureuil 2",
+        "airplane_id": "EC-MBN",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-07-02/2023-07-02",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "5598"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Bell 412SP",
+        "airplane_id": "EC-JFQ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-06-06/2023-06-06",
+        "manufacturer": "Bell",
+        "serial": "33126"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Canadair CL-215-1A10",
+        "airplane_id": "EC-GBT",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-05-14/2023-05-14",
+        "manufacturer": "Canadair",
+        "serial": "1054"
+    },
+    {
+        "airline": "Avincis Aviation Espa\u00f1a",
+        "model": "Canadair CL-215",
+        "airplane_id": "EC-GBS",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-05-14/2023-05-14",
+        "manufacturer": "Canadair",
+        "serial": "1052"
+    }
+]

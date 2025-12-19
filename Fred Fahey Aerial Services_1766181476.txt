@@ -1,0 +1,74 @@
+[
+    {
+        "airline": "Fred Fahey Aerial Services",
+        "model": "Fletcher FU-24-950M",
+        "airplane_id": "VH-JEQ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-12-19/2025-12-19",
+        "manufacturer": "Fletcher",
+        "serial": "85"
+    },
+    {
+        "airline": "Fred Fahey Aerial Services",
+        "model": "Cessna A185F Skywagon II",
+        "airplane_id": "VH-FGF",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-10-08/2025-10-08",
+        "manufacturer": "Cessna",
+        "serial": "18502560"
+    },
+    {
+        "airline": "Fred Fahey Aerial Services",
+        "model": "Air Tractor AT-502B",
+        "airplane_id": "VH-FHE",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-09-19/2025-09-19",
+        "manufacturer": "Air Tractor",
+        "serial": "502B-2907"
+    },
+    {
+        "airline": "Fred Fahey Aerial Services",
+        "model": "Air Tractor AT-802A",
+        "airplane_id": "VH-FEP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-08-04/2024-08-04",
+        "manufacturer": "Air Tractor",
+        "serial": "802-0372"
+    },
+    {
+        "airline": "Fred Fahey Aerial Services",
+        "model": "Air Tractor AT-802A",
+        "airplane_id": "VH-FEP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-07-01/2023-07-01",
+        "manufacturer": "Air Tractor",
+        "serial": "802-0372"
+    },
+    {
+        "airline": "Fred Fahey Aerial Services",
+        "model": "Fletcher FU-24-950",
+        "airplane_id": "VH-EMD",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-06-16/2023-06-16",
+        "manufacturer": "Fletcher",
+        "serial": "271"
+    },
+    {
+        "airline": "Fred Fahey Aerial Services",
+        "model": "Air Tractor AT-802A",
+        "airplane_id": "VH-FEP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-12-19/2022-12-19",
+        "manufacturer": "Air Tractor",
+        "serial": "802-0372"
+    },
+    {
+        "airline": "Fred Fahey Aerial Services",
+        "model": "Air Tractor AT-802",
+        "airplane_id": "VH-CVF",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-12-19/2022-12-19",
+        "manufacturer": "Air Tractor",
+        "serial": "802-0240"
+    },
+    {
+        "airline": "Fred Fahey Aerial Services",
+        "model": "Air Tractor AT-602",
+        "airplane_id": "VH-FHA",
+        "photo_url": "https://www.jetphotos.com/photo/date/2016-09-26/2016-09-26",
+        "manufacturer": "Air Tractor",
+        "serial": "602-0398"
+    }
+]

@@ -1,0 +1,2402 @@
+[
+    {
+        "airline": "Eliance",
+        "model": "Eurocopter AS 355N Ecureuil 2",
+        "airplane_id": "CC-AYL",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-12-01/2025-12-01",
+        "manufacturer": "Eurocopter",
+        "serial": "5660"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H135",
+        "airplane_id": "EC-NSI",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-10-04/2025-10-04",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "2075"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Eurocopter AS 350B3 Ecureuil",
+        "airplane_id": "CC-AUK",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-02-10/2022-02-10",
+        "manufacturer": "Eurocopter",
+        "serial": "3818"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NBZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-10-03/2025-10-03",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-239"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-KRQ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-10-24/2025-10-24",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4370"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NBZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-09-01/2025-09-01",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-239"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Vulcanair P.68TC",
+        "airplane_id": "CC-DEP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-01-31/2023-01-31",
+        "manufacturer": "Vulcanair",
+        "serial": "456"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NBZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-08-06/2025-08-06",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-239"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-NKD",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-08-03/2025-08-03",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4243"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-MUP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-07-17/2025-07-17",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-2014"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NBZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-04-22/2025-04-22",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-239"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H130",
+        "airplane_id": "EC-MMJ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-07-18/2025-07-18",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "8252"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "CC-AXL",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-07-29/2025-07-29",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4253"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NBZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-05-25/2025-05-25",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-239"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NBZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-05-02/2025-05-02",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-239"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "CC-AXK",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-11-10/2024-11-10",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "3489"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-NKD",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-05-18/2025-05-18",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4243"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NBZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-04-06/2025-04-06",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-239"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H145",
+        "airplane_id": "I-GOOO",
+        "photo_url": "https://www.jetphotos.com/photo/date/2017-04-01/2017-04-01",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "20279"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "CC-AUH",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-03-22/2025-03-22",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "3340"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H145",
+        "airplane_id": "EC-MOR",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-03-22/2025-03-22",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "20076"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Eurocopter EC 135P2+",
+        "airplane_id": "EC-OFB",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-04-06/2025-04-06",
+        "manufacturer": "Eurocopter",
+        "serial": "0691"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B2 Ecureuil",
+        "airplane_id": "CC-DAT",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-02-21/2024-02-21",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "2558"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Eurocopter EC 135P2",
+        "airplane_id": "EC-JVS",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-12-15/2024-12-15",
+        "manufacturer": "Eurocopter",
+        "serial": "0436"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Eurocopter EC 135T3",
+        "airplane_id": "EC-MUL",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-02-23/2022-02-23",
+        "manufacturer": "Eurocopter",
+        "serial": "1246"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Cessna 550B Citation Bravo",
+        "airplane_id": "EC-KKO",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-12-29/2023-12-29",
+        "manufacturer": "Cessna",
+        "serial": "550-0992"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H130",
+        "airplane_id": "CC-AYN",
+        "photo_url": "https://www.jetphotos.com/photo/date/2025-01-04/2025-01-04",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "8288"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NFX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-12-27/2024-12-27",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-172"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-MUP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-09-26/2024-09-26",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-2014"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Cessna 337G Skymaster",
+        "airplane_id": "CC-DEN",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-11-30/2024-11-30",
+        "manufacturer": "Cessna",
+        "serial": "33701713"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Eurocopter EC 135T3",
+        "airplane_id": "EC-NRL",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-03-29/2024-03-29",
+        "manufacturer": "Eurocopter",
+        "serial": "1265"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-KTU",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-10-18/2024-10-18",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4520"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-KGY",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-05-30/2024-05-30",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4234"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Reims-Cessna F337G Super Skymaster",
+        "airplane_id": "EC-GPF",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-10-10/2024-10-10",
+        "manufacturer": "Reims-Cessna",
+        "serial": "F337-0059"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Eurocopter EC 135P2",
+        "airplane_id": "EC-JVS",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-10-05/2024-10-05",
+        "manufacturer": "Eurocopter",
+        "serial": "0436"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-NZY",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-07-31/2024-07-31",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "9338"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NFX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-01-03/2024-01-03",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-172"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NBZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-04-02/2024-04-02",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-239"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-NZY",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-07-31/2024-07-31",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "9338"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-NZY",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-07-31/2024-07-31",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "9338"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-NXG",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-08-03/2024-08-03",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "9225"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-NZY",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-07-31/2024-07-31",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "9338"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-OAK",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-08-17/2024-08-17",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "9299"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Reims-Cessna F337G Super Skymaster",
+        "airplane_id": "EC-GPF",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-07-25/2024-07-25",
+        "manufacturer": "Reims-Cessna",
+        "serial": "F337-0059"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-NZU",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-08-03/2024-08-03",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "9336"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-KGY",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-07-19/2024-07-19",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4234"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Eurocopter EC 135T3",
+        "airplane_id": "EC-MMS",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-07-18/2024-07-18",
+        "manufacturer": "Eurocopter",
+        "serial": "1225"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-NZY",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-07-31/2024-07-31",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "9338"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200 King Air",
+        "airplane_id": "EC-KND",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-06-24/2024-06-24",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-1564"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-KGY",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-06-23/2024-06-23",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4234"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-KTU",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-06-14/2024-06-14",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4520"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Eurocopter EC 135P2+",
+        "airplane_id": "EC-KPA",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-05-11/2024-05-11",
+        "manufacturer": "Eurocopter",
+        "serial": "0634"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-NXF",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-05-31/2022-05-31",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "9223"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200 King Air",
+        "airplane_id": "EC-JJP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-05-06/2022-05-06",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-845"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Cessna 550B Citation Bravo",
+        "airplane_id": "EC-KKO",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-11-25/2021-11-25",
+        "manufacturer": "Cessna",
+        "serial": "550-0992"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Reims-Cessna F337G Super Skymaster",
+        "airplane_id": "EC-GPF",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-02-21/2022-02-21",
+        "manufacturer": "Reims-Cessna",
+        "serial": "F337-0059"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Reims-Cessna F337G Super Skymaster",
+        "airplane_id": "EC-HOG",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-02-21/2022-02-21",
+        "manufacturer": "Reims-Cessna",
+        "serial": "FTB3370028"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Reims-Cessna F337G Super Skymaster",
+        "airplane_id": "EC-GVX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-02-21/2022-02-21",
+        "manufacturer": "Reims-Cessna",
+        "serial": "4060"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Cessna 337G Skymaster",
+        "airplane_id": "EC-DKD",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-02-21/2022-02-21",
+        "manufacturer": "Cessna",
+        "serial": "33701797"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-MUP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-02-18/2022-02-18",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-2014"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H145",
+        "airplane_id": "EC-MKZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-03-05/2022-03-05",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "20075"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H145",
+        "airplane_id": "EC-MKZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-03-01/2022-03-01",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "20075"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H145",
+        "airplane_id": "EC-MKZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-03-01/2022-03-01",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "20075"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H145",
+        "airplane_id": "EC-MKZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-11-19/2021-11-19",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "20075"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200 King Air",
+        "airplane_id": "EC-JJP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-12-22/2021-12-22",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-845"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Eurocopter EC 135P2",
+        "airplane_id": "EC-LCN",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-01-26/2022-01-26",
+        "manufacturer": "Eurocopter",
+        "serial": "0824"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-KTU",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-02-03/2022-02-03",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4520"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200 King Air",
+        "airplane_id": "EC-JJP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-12-22/2021-12-22",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-845"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H145",
+        "airplane_id": "EC-MKZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-01-01/2022-01-01",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "20075"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-KSK",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-01-11/2022-01-11",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4365"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Reims-Cessna F337G Super Skymaster",
+        "airplane_id": "EC-GPF",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-12-16/2021-12-16",
+        "manufacturer": "Reims-Cessna",
+        "serial": "F337-0059"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Reims-Cessna FTB337G Super Skymaster",
+        "airplane_id": "EC-GXC",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-12-16/2021-12-16",
+        "manufacturer": "Reims-Cessna",
+        "serial": "FTB337-0013"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Cessna 337G Skymaster",
+        "airplane_id": "EC-EDB",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-12-16/2021-12-16",
+        "manufacturer": "Cessna",
+        "serial": "0067"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Cessna 337G Skymaster",
+        "airplane_id": "EC-GPQ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-12-16/2021-12-16",
+        "manufacturer": "Cessna",
+        "serial": "33701815"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Cessna T337H Turbo Skymaster",
+        "airplane_id": "EC-EPP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-12-16/2021-12-16",
+        "manufacturer": "Cessna",
+        "serial": "3371837"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H145",
+        "airplane_id": "EC-MOR",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-12-04/2021-12-04",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "20076"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200 King Air",
+        "airplane_id": "EC-JJP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-10-05/2021-10-05",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-845"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Eurocopter EC 135T2i",
+        "airplane_id": "EC-KNZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-10-24/2021-10-24",
+        "manufacturer": "Eurocopter",
+        "serial": "0606"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Reims-Cessna F337G Super Skymaster",
+        "airplane_id": "EC-GVX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-10-05/2021-10-05",
+        "manufacturer": "Reims-Cessna",
+        "serial": "4060"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-NEJ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-10-12/2021-10-12",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "8606"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H135",
+        "airplane_id": "OE-XFF",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-10-20/2021-10-20",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "2075"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Cessna 550B Citation Bravo",
+        "airplane_id": "EC-KKO",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-10-15/2021-10-15",
+        "manufacturer": "Cessna",
+        "serial": "550-0992"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Reims-Cessna F337G Super Skymaster",
+        "airplane_id": "EC-GVX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-10-05/2021-10-05",
+        "manufacturer": "Reims-Cessna",
+        "serial": "4060"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Reims-Cessna F337G Super Skymaster",
+        "airplane_id": "EC-GVX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-09-22/2021-09-22",
+        "manufacturer": "Reims-Cessna",
+        "serial": "4060"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Reims-Cessna F337G Super Skymaster",
+        "airplane_id": "EC-HOG",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-09-26/2021-09-26",
+        "manufacturer": "Reims-Cessna",
+        "serial": "FTB3370028"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H130",
+        "airplane_id": "EC-MMI",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-10-06/2021-10-06",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "8238"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Eurocopter EC 135P2",
+        "airplane_id": "EC-JVS",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-10-05/2021-10-05",
+        "manufacturer": "Eurocopter",
+        "serial": "0436"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NFX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-07-21/2021-07-21",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-172"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Reims-Cessna F337G Super Skymaster",
+        "airplane_id": "EC-HOG",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-09-22/2021-09-22",
+        "manufacturer": "Reims-Cessna",
+        "serial": "FTB3370028"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Reims-Cessna F337G Super Skymaster",
+        "airplane_id": "EC-GVX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-09-17/2021-09-17",
+        "manufacturer": "Reims-Cessna",
+        "serial": "4060"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-MUP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-09-04/2021-09-04",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-2014"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-KNG",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-09-04/2021-09-04",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4088"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-NFD",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-09-04/2021-09-04",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4264"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Eurocopter AS 350B3 Ecureuil",
+        "airplane_id": "EC-IOI",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-09-04/2021-09-04",
+        "manufacturer": "Eurocopter",
+        "serial": "3640"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-NFD",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-08-16/2021-08-16",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4264"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H145",
+        "airplane_id": "EC-MOR",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-08-16/2021-08-16",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "20076"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-NFD",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-08-16/2021-08-16",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4264"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-NEJ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-08-27/2021-08-27",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "8606"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-NFD",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-08-20/2021-08-20",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4264"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H145",
+        "airplane_id": "EC-MOR",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-08-16/2021-08-16",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "20076"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Eurocopter EC 135P2",
+        "airplane_id": "EC-LCN",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-07-24/2021-07-24",
+        "manufacturer": "Eurocopter",
+        "serial": "0824"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-NFD",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-08-16/2021-08-16",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4264"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H130",
+        "airplane_id": "EC-MMI",
+        "photo_url": "https://www.jetphotos.com/photo/date/2019-12-27/2019-12-27",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "8238"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Vulcanair P.68TC",
+        "airplane_id": "CC-DEP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-08-09/2021-08-09",
+        "manufacturer": "Vulcanair",
+        "serial": "456"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-NEJ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-08-09/2021-08-09",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "8606"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-MYU",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-08-15/2021-08-15",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "3507"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H145",
+        "airplane_id": "EC-MOR",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-08-08/2021-08-08",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "20076"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-KTU",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-08-07/2021-08-07",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4520"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-MGU",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-07-24/2021-07-24",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "8078"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NFX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-08-04/2021-08-04",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-172"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-JEA",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-08-07/2021-08-07",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "3819"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200 King Air",
+        "airplane_id": "EC-JJP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-06-02/2021-06-02",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-845"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200 King Air",
+        "airplane_id": "EC-JJP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-05-28/2021-05-28",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-845"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-NEJ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-07-13/2021-07-13",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "8606"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-NEJ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-07-13/2021-07-13",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "8606"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-NEJ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-07-27/2021-07-27",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "8606"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-KTU",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-07-21/2021-07-21",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4520"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-NFE",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-06-29/2021-06-29",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4931"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200 King Air",
+        "airplane_id": "EC-JJP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-06-16/2021-06-16",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-845"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H130",
+        "airplane_id": "EC-MMJ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-06-14/2021-06-14",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "8252"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200 King Air",
+        "airplane_id": "EC-JJP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2019-10-22/2019-10-22",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-845"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-KRQ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-06-25/2021-06-25",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4370"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-NFE",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-06-25/2021-06-25",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4931"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-KNG",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-06-19/2021-06-19",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4088"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H145",
+        "airplane_id": "EC-MMP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-06-13/2021-06-13",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "20031"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-NFD",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-06-13/2021-06-13",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4264"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-KRQ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-05-21/2021-05-21",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4370"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-KNG",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-05-22/2021-05-22",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4088"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H145",
+        "airplane_id": "EC-MKZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-03-13/2021-03-13",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "20075"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NFX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-04-23/2021-04-23",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-172"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-MUP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-04-21/2021-04-21",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-2014"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NFX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-04-29/2021-04-29",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-172"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 355N Ecureuil 2",
+        "airplane_id": "EC-IDM",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-05-08/2021-05-08",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "5698"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NFX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-03-31/2021-03-31",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-172"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200 King Air",
+        "airplane_id": "EC-JJP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-05-12/2021-05-12",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-845"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H145",
+        "airplane_id": "EC-MMP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-03-23/2021-03-23",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "20031"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H145",
+        "airplane_id": "EC-MOR",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-03-31/2021-03-31",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "20076"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NFX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-11-06/2020-11-06",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-172"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H145",
+        "airplane_id": "EC-MOR",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-03-12/2021-03-12",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "20076"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Eurocopter EC 135T2i",
+        "airplane_id": "EC-KNZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-02-12/2021-02-12",
+        "manufacturer": "Eurocopter",
+        "serial": "0606"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H145",
+        "airplane_id": "EC-MKZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-02-28/2021-02-28",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "20075"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H145",
+        "airplane_id": "I-MADE",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-02-24/2021-02-24",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "20141"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200 King Air",
+        "airplane_id": "EC-KND",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-02-19/2021-02-19",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-1564"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200 King Air",
+        "airplane_id": "EC-KND",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-02-12/2021-02-12",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-1564"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 355N Ecureuil 2",
+        "airplane_id": "EC-IDM",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-01-26/2021-01-26",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "5698"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200 King Air",
+        "airplane_id": "EC-KND",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-01-14/2021-01-14",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-1564"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H145",
+        "airplane_id": "EC-MKZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-01-16/2021-01-16",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "20075"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NBZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-09-30/2020-09-30",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-239"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Eurocopter AS 350B3 Ecureuil",
+        "airplane_id": "EC-MCC",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-12-26/2020-12-26",
+        "manufacturer": "Eurocopter",
+        "serial": "3439"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NBZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-08-16/2020-08-16",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-239"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NFX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-08-25/2020-08-25",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-172"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NFX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-10-03/2020-10-03",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-172"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H145",
+        "airplane_id": "EC-MMP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-11-29/2020-11-29",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "20031"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H145",
+        "airplane_id": "EC-MMP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-12-01/2020-12-01",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "20031"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H145",
+        "airplane_id": "EC-MMP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-11-17/2020-11-17",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "20031"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NFX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-10-29/2020-10-29",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-172"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Eurocopter EC 135T3",
+        "airplane_id": "EC-NRK",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-04-11/2024-04-11",
+        "manufacturer": "Eurocopter",
+        "serial": "1250"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NBZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-04-13/2024-04-13",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-239"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-KGY",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-05-11/2024-05-11",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4234"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200 King Air",
+        "airplane_id": "EC-KND",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-04-12/2023-04-12",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-1564"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Reims-Cessna F337G Super Skymaster",
+        "airplane_id": "EC-GVX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-04-12/2023-04-12",
+        "manufacturer": "Reims-Cessna",
+        "serial": "FTB3370004"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NBZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-04-13/2024-04-13",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-239"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NBZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-03-04/2024-03-04",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-239"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NFX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-02-19/2024-02-19",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-172"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Cessna 550B Citation Bravo",
+        "airplane_id": "EC-KKO",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-12-30/2023-12-30",
+        "manufacturer": "Cessna",
+        "serial": "550-0992"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NBZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-10-20/2023-10-20",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-239"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Cessna 550B Citation Bravo",
+        "airplane_id": "EC-KKO",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-02-02/2024-02-02",
+        "manufacturer": "Cessna",
+        "serial": "550-0992"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-OGL",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-02-02/2024-02-02",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "9490"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NBZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-10-24/2023-10-24",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-239"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Eurocopter EC 135T3",
+        "airplane_id": "EC-MMS",
+        "photo_url": "https://www.jetphotos.com/photo/date/2024-01-05/2024-01-05",
+        "manufacturer": "Eurocopter",
+        "serial": "1225"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Cessna 550B Citation Bravo",
+        "airplane_id": "EC-KKO",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-12-29/2023-12-29",
+        "manufacturer": "Cessna",
+        "serial": "550-0992"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H145",
+        "airplane_id": "I-DTRE",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-11-25/2023-11-25",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "21161"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NFX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-07-05/2023-07-05",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-172"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H145",
+        "airplane_id": "I-MADE",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-07-01/2023-07-01",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "20141"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Cessna 337G Skymaster",
+        "airplane_id": "CC-DEN",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-09-17/2023-09-17",
+        "manufacturer": "Cessna",
+        "serial": "33701713"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NBZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-02-22/2023-02-22",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-239"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-NXG",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-10-11/2023-10-11",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "9225"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-NXG",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-10-11/2023-10-11",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "9225"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200 King Air",
+        "airplane_id": "EC-JJP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-10-05/2023-10-05",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-845"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-NZY",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-05-19/2023-05-19",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "9338"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H145",
+        "airplane_id": "I-GOOO",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-10-12/2023-10-12",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "20279"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H135",
+        "airplane_id": "EC-NSI",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-10-07/2023-10-07",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "2075"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H145",
+        "airplane_id": "I-DTRE",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-10-05/2023-10-05",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "21161"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Eurocopter EC 135P2",
+        "airplane_id": "EC-KCM",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-06-17/2022-06-17",
+        "manufacturer": "Eurocopter",
+        "serial": "452"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 355N Ecureuil 2",
+        "airplane_id": "EC-IDM",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-08-25/2023-08-25",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "5698"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NFX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-06-13/2023-06-13",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-172"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H145",
+        "airplane_id": "I-MADE",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-06-23/2023-06-23",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "20141"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NFX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-07-13/2023-07-13",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-172"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-OAK",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-07-08/2023-07-08",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "9299"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H145",
+        "airplane_id": "I-MADE",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-07-20/2023-07-20",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "20141"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-KNG",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-07-03/2023-07-03",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4088"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-KNG",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-07-03/2023-07-03",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4088"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-OAK",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-06-16/2023-06-16",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "9299"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 355N Ecureuil 2",
+        "airplane_id": "EC-IDM",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-06-04/2022-06-04",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "5698"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-OAK",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-06-16/2023-06-16",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "9299"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Eurocopter AS 350B3 Ecureuil",
+        "airplane_id": "EC-MCC",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-06-15/2023-06-15",
+        "manufacturer": "Eurocopter",
+        "serial": "3439"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-KNG",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-05-12/2023-05-12",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4088"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-OAK",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-06-13/2023-06-13",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "9299"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NFX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-05-15/2023-05-15",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-172"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Eurocopter AS 350B3 Ecureuil",
+        "airplane_id": "EC-MCC",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-05-31/2023-05-31",
+        "manufacturer": "Eurocopter",
+        "serial": "3439"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NBZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-05-09/2023-05-09",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-239"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Reims-Cessna F337G Super Skymaster",
+        "airplane_id": "EC-GVX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-03-11/2023-03-11",
+        "manufacturer": "Reims-Cessna",
+        "serial": ""
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200 King Air",
+        "airplane_id": "EC-KND",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-03-11/2023-03-11",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-1564"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-NZY",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-05-09/2023-05-09",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "9338"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Reims-Cessna FTB337G Super Skymaster",
+        "airplane_id": "EC-HOG",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-05-09/2023-05-09",
+        "manufacturer": "Reims-Cessna",
+        "serial": "FTB3370028"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NBZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-04-14/2023-04-14",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-239"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200 King Air",
+        "airplane_id": "EC-JJP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-05-07/2023-05-07",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-845"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Cessna 337E Skymaster",
+        "airplane_id": "EC-BVL",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-04-12/2023-04-12",
+        "manufacturer": "Cessna",
+        "serial": "F337-0007"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200 King Air",
+        "airplane_id": "EC-JJP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-10-26/2020-10-26",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-845"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H145",
+        "airplane_id": "EC-MMP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-11-01/2020-11-01",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "20031"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H145",
+        "airplane_id": "EC-MOR",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-10-29/2020-10-29",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "20076"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200 King Air",
+        "airplane_id": "EC-JJP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-10-16/2020-10-16",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-845"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-KNG",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-07-04/2020-07-04",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4088"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-KNG",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-07-04/2020-07-04",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4088"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Cessna 337E Skymaster",
+        "airplane_id": "EC-BVL",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-08-19/2020-08-19",
+        "manufacturer": "Cessna",
+        "serial": "F337-0007"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NBZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-09-26/2020-09-26",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-239"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H130",
+        "airplane_id": "CC-AYN",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-08-13/2020-08-13",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "8288"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H130",
+        "airplane_id": "EC-MRH",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-08-24/2020-08-24",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "8337"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H130",
+        "airplane_id": "EC-MMJ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-08-24/2020-08-24",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "8252"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-KNG",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-07-27/2020-07-27",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4088"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NFX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-08-06/2020-08-06",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-172"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200 King Air",
+        "airplane_id": "EC-KND",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-08-13/2020-08-13",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-1564"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H130",
+        "airplane_id": "CC-AYN",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-08-01/2020-08-01",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "8288"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NFX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-06-22/2020-06-22",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-172"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-KNG",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-07-04/2020-07-04",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4088"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Eurocopter AS 350B3 Ecureuil",
+        "airplane_id": "EC-MCC",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-06-09/2020-06-09",
+        "manufacturer": "Eurocopter",
+        "serial": "3439"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200 King Air",
+        "airplane_id": "EC-JJP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2019-10-22/2019-10-22",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-845"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Eurocopter EC 135T3",
+        "airplane_id": "EC-MUL",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-02-26/2020-02-26",
+        "manufacturer": "Eurocopter",
+        "serial": "1246"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Eurocopter EC 135T3",
+        "airplane_id": "EC-MQO",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-02-14/2020-02-14",
+        "manufacturer": "Eurocopter",
+        "serial": "1231"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NFX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2020-01-09/2020-01-09",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-172"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200 King Air",
+        "airplane_id": "EC-JJP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2019-04-08/2019-04-08",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-845"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H130",
+        "airplane_id": "EC-MMI",
+        "photo_url": "https://www.jetphotos.com/photo/date/2019-12-27/2019-12-27",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "8238"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "CC-AXK",
+        "photo_url": "https://www.jetphotos.com/photo/date/2019-08-05/2019-08-05",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "3489"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NBZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2019-11-27/2019-11-27",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-239"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-NFE",
+        "photo_url": "https://www.jetphotos.com/photo/date/2019-11-17/2019-11-17",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4931"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-NEJ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2019-09-26/2019-09-26",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "8606"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Cessna 337G Skymaster",
+        "airplane_id": "EC-DKD",
+        "photo_url": "https://www.jetphotos.com/photo/date/2019-08-21/2019-08-21",
+        "manufacturer": "Cessna",
+        "serial": "33701797"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-KSK",
+        "photo_url": "https://www.jetphotos.com/photo/date/2019-08-18/2019-08-18",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4365"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200 King Air",
+        "airplane_id": "EC-KND",
+        "photo_url": "https://www.jetphotos.com/photo/date/2019-07-29/2019-07-29",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-1564"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200 King Air",
+        "airplane_id": "EC-JJP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2019-05-07/2019-05-07",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-845"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200 King Air",
+        "airplane_id": "EC-KND",
+        "photo_url": "https://www.jetphotos.com/photo/date/2019-06-12/2019-06-12",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-1564"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200 King Air",
+        "airplane_id": "EC-JJP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2019-05-07/2019-05-07",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-845"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H145",
+        "airplane_id": "EC-MKZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2019-05-13/2019-05-13",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "20075"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H130",
+        "airplane_id": "EC-MMJ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2019-05-01/2019-05-01",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "8252"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200 King Air",
+        "airplane_id": "EC-JJP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2019-04-25/2019-04-25",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-845"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Cessna 337G Skymaster",
+        "airplane_id": "EC-DKD",
+        "photo_url": "https://www.jetphotos.com/photo/date/2019-04-18/2019-04-18",
+        "manufacturer": "Cessna",
+        "serial": "33701797"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200 King Air",
+        "airplane_id": "EC-JJP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2019-04-04/2019-04-04",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-845"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200 King Air",
+        "airplane_id": "EC-JJP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2019-04-04/2019-04-04",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-845"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-NXH",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-09-10/2022-09-10",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "9227"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-NXF",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-09-10/2022-09-10",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "9223"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Reims-Cessna F337G Super Skymaster",
+        "airplane_id": "EC-GPF",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-04-12/2023-04-12",
+        "manufacturer": "Reims-Cessna",
+        "serial": "F337-0059"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Cessna 550B Citation Bravo",
+        "airplane_id": "EC-KKO",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-03-19/2023-03-19",
+        "manufacturer": "Cessna",
+        "serial": "550-0992"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Reims-Cessna FTB337G Super Skymaster",
+        "airplane_id": "EC-GXC",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-03-22/2023-03-22",
+        "manufacturer": "Reims-Cessna",
+        "serial": "FTB337-0013"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NFX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-03-07/2023-03-07",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-172"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NBZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-01-31/2023-01-31",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-239"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NBZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-02-03/2023-02-03",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-239"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Cessna 337G Skymaster",
+        "airplane_id": "EC-DKD",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-03-22/2023-03-22",
+        "manufacturer": "Cessna",
+        "serial": "33701797"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NFX",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-03-16/2023-03-16",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-172"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Reims-Cessna FTB337G Super Skymaster",
+        "airplane_id": "EC-GXC",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-03-11/2023-03-11",
+        "manufacturer": "Reims-Cessna",
+        "serial": "FTB337-0013"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H130",
+        "airplane_id": "EC-MMI",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-02-21/2023-02-21",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "8238"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H130",
+        "airplane_id": "EC-MMJ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2023-02-21/2023-02-21",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "8252"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H130",
+        "airplane_id": "EC-MMJ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-10-18/2022-10-18",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "8252"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Eurocopter EC 135P2+",
+        "airplane_id": "EC-KPA",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-10-18/2022-10-18",
+        "manufacturer": "Eurocopter",
+        "serial": "0634"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NBZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-12-09/2022-12-09",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-239"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NBZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-12-09/2022-12-09",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-239"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NBZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-12-01/2022-12-01",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-239"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Eurocopter AS 350B3 Ecureuil",
+        "airplane_id": "EC-MCC",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-11-20/2022-11-20",
+        "manufacturer": "Eurocopter",
+        "serial": "3439"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NBZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-11-08/2022-11-08",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-239"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NBZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-09-27/2022-09-27",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-239"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NBZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-10-24/2022-10-24",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-239"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NBZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-10-12/2022-10-12",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-239"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H130",
+        "airplane_id": "EC-MMI",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-10-25/2022-10-25",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "8238"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-KTU",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-07-25/2022-07-25",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4520"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Eurocopter EC 135P2+",
+        "airplane_id": "EC-KPA",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-10-17/2022-10-17",
+        "manufacturer": "Eurocopter",
+        "serial": "0634"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H130",
+        "airplane_id": "EC-MMJ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-10-17/2022-10-17",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "8252"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-NUF",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-10-17/2022-10-17",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "9183"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NBZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-09-23/2022-09-23",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-239"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NBZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-10-06/2022-10-06",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-239"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-NXH",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-09-10/2022-09-10",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "9227"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-NXF",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-08-15/2022-08-15",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "9223"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Cessna 337G Skymaster",
+        "airplane_id": "EC-GPQ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-08-15/2022-08-15",
+        "manufacturer": "Cessna",
+        "serial": "33701815"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-NXF",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-07-12/2022-07-12",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "9223"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-KRQ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-07-27/2022-07-27",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4370"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200 King Air",
+        "airplane_id": "EC-KND",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-07-22/2022-07-22",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-1564"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200 King Air",
+        "airplane_id": "EC-JJP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-07-21/2022-07-21",
+        "manufacturer": "Beechcraft",
+        "serial": "BB-845"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-NXG",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-07-12/2022-07-12",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "9225"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-KNG",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-07-20/2022-07-20",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4088"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-NXH",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-07-12/2022-07-12",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "9227"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-KRQ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-07-27/2022-07-27",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4370"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-KTU",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-07-18/2022-07-18",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4520"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-NXG",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-06-28/2022-06-28",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "9225"
+    },
+    {
+        "airline": "Eliance",
+        "model": "A\u00e9rospatiale AS 350B3 Ecureuil",
+        "airplane_id": "EC-KNG",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-06-25/2022-06-25",
+        "manufacturer": "A\u00e9rospatiale",
+        "serial": "4088"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-NXF",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-06-10/2022-06-10",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "9223"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200GT King Air 250",
+        "airplane_id": "EC-NBZ",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-06-04/2022-06-04",
+        "manufacturer": "Beechcraft",
+        "serial": "BY-239"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Beechcraft B200 King Air",
+        "airplane_id": "EC-JJP",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-05-22/2022-05-22",
+        "manufacturer": "Agusta",
+        "serial": "BB-845"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-NXH",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-06-15/2022-06-15",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "9227"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H130",
+        "airplane_id": "EC-MMI",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-06-14/2022-06-14",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "8238"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Eurocopter EC 135P2",
+        "airplane_id": "EC-KCM",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-06-13/2022-06-13",
+        "manufacturer": "Eurocopter",
+        "serial": "452"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Eurocopter EC 135T3",
+        "airplane_id": "EC-NRK",
+        "photo_url": "https://www.jetphotos.com/photo/date/2021-06-30/2021-06-30",
+        "manufacturer": "Eurocopter",
+        "serial": "1250"
+    },
+    {
+        "airline": "Eliance",
+        "model": "Airbus Helicopters H125",
+        "airplane_id": "EC-NXG",
+        "photo_url": "https://www.jetphotos.com/photo/date/2022-06-09/2022-06-09",
+        "manufacturer": "Airbus Helicopters",
+        "serial": "9225"
+    }
+]
